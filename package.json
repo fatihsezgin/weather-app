@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\ && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihsezgin/weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Fatih Sezgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatihsezgin/weather-app/issues"
+  },
+  "homepage": "https://github.com/fatihsezgin/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "yargs": "^14.0.0"
+  }
+}
